@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         java: [
-            "17" # Latest version
+            "17" # Latest version.
           ]
     runs-on: ubuntu-latest
     steps:
